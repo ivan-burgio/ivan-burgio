@@ -1,6 +1,7 @@
 # 💫 Iván Burgio:
 Welcome to my profile!<br>I am a FullStack Web Development student who really enjoys learning about programming.<br>I currently work outside the IT sector but I am looking for the first place to enter.
 
+---
 
 # 💻 Tech Stack:
 <h4 align="left">Technologies I know:</h4>
@@ -68,7 +69,7 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
 </div>
 
 ###
-
+---
 # 📊 GitHub Stats:
 ###
 
@@ -78,7 +79,7 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivan-burgio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ivan-burgio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
