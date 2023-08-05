@@ -84,13 +84,3 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ivan-burgio&icon=8&color=11)](https://visitcount.itsvg.in)
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/22d54rhz7evtr4mttdgwu6pnq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
