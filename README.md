@@ -1,4 +1,4 @@
-# 💫 Iván Burgio:
+# 💫 About Me:
 Welcome to my profile!<br>I am a FullStack Web Development student who really enjoys learning about programming.<br>I currently work outside the IT sector but I am looking for the first place to enter.
 
 ---
