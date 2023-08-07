@@ -28,8 +28,6 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="15" />
