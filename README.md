@@ -4,7 +4,7 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
 ---
 
 # 💻 Tech Stack:
-<h4 align="left">Technologies I know:</h4>
+<h4 align="left">FrontEnd:</h4>
 
 ###
 
@@ -17,14 +17,26 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h4 align="left">BackEnd:</h4>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="15" />
+  <img src="https://www.concurrency.com/getmedia/e0f69a92-832a-4680-b8ae-a1e02407d80a/SQL-Database-(generic).png.aspx?width=256&height=256&ext=.png" height="40" alt="sql logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
-<h4 align="left">Others:</h4>
+<h4 align="left">Development tools:</h4>
 
 ###
 
@@ -33,8 +45,6 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
@@ -42,6 +52,8 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img width="15" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+  <img width="15" />
+  <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" height="40" alt="cypress logo" />
 </div>
 
 ###
