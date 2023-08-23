@@ -53,7 +53,7 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
   <img width="15" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
   <img width="15" />
-  <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" height="40" alt="cypress logo" />
+  <img src="https://openviewpartners.com/wp-content/uploads/2020/12/cypress-io-logo-round_-1.png" height="40" alt="cypress logo" />
 </div>
 
 ###
