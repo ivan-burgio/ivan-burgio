@@ -61,6 +61,8 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
   <img width="15" />
+  <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" height="40" alt="webpack logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
