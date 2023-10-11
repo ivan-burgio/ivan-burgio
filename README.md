@@ -40,7 +40,7 @@ Welcome to my profile!<br>I am a FullStack Web Development student who really en
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="15" />
-  <img src="https://www.concurrency.com/getmedia/e0f69a92-832a-4680-b8ae-a1e02407d80a/SQL-Database-(generic).png.aspx?width=256&height=256&ext=.png" height="40" alt="sql logo" />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="15" />
