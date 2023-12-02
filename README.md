@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my profile!<br>I am a FullStack Web Development student who really enjoys learning about programming.<br>I currently work as a programmer.
+Welcome to my profile!<br> I am a FullStack Web Development student who really enjoys learning about programming.<br>I currently work as a programmer.
 
 ---
 
