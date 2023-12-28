@@ -59,6 +59,8 @@ Welcome to my profile!<br> I am a FullStack Web Development student who really e
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="15" />
+  <img src="https://avatars.githubusercontent.com/u/49963700?s=200&v=4" height="40" alt="nvm logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
   <img width="15" />
   <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" height="40" alt="webpack logo"  />
