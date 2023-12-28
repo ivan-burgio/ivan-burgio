@@ -69,6 +69,10 @@ Welcome to my profile!<br> I am a FullStack Web Development student who really e
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" height="40" alt="vite logo"  />
+  <img width="15" />
+  <img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" height="40" alt="strapi logo"  />
+  <img width="15" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
   <img width="15" />
   <img src="https://openviewpartners.com/wp-content/uploads/2020/12/cypress-io-logo-round_-1.png" height="40" alt="cypress logo" />
