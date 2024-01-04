@@ -46,6 +46,8 @@ Welcome to my profile!<br> I am a FullStack Web Development student who really e
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="15" />
+  <img src="https://seeklogo.com/images/R/remix-logo-862D8B1019-seeklogo.com.png" height="40" alt="remix logo"  />
+  <img width="15" />
 </div>
 
 ###
