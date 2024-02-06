@@ -27,7 +27,7 @@ Welcome to my profile!<br> I am a FullStack Web Development student who really e
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="40" alt="gatsby logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" height="40" alt="gatsby logo"  />
   <img width="15" />
   <img src="https://seeklogo.com/images/R/remix-logo-862D8B1019-seeklogo.com.png" height="40" alt="remix logo"  />
   <img width="15" />
