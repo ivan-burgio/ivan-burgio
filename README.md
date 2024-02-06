@@ -25,7 +25,7 @@ Welcome to my profile!<br> I am a FullStack Web Development student who really e
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" height="40" alt="tailwindcss logo"  />
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" height="40" alt="gatsby logo"  />
   <img width="15" />
