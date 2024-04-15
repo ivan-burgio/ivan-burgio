@@ -23,6 +23,8 @@ Welcome to my profile!<br> I am a FullStack Web Development student who really e
   <img width="15" />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" height="40" alt="jquery logo"  />
   <img width="15" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" height="40" alt="typescript logo"  />
+  <img width="15" />
 </div>
 
 ###
