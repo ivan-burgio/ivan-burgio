@@ -18,6 +18,7 @@ jobs:
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
