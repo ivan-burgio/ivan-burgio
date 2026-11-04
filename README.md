@@ -51,6 +51,10 @@ Trabajo multi-tenant real (un mismo stack sirviendo decenas de tiendas/sitios de
 <td width="60" align="center"><img src="https://games.buyarservices.com/favicon.ico" width="32" /></td>
 <td><a href="https://games.buyarservices.com"><b>Buyar Games</b></a><br/>Hub de juegos web (motor Godot)</td>
 </tr>
+<tr>
+<td width="60" align="center"><img src="https://ademan.buyarservices.com/apple-touch-icon.png" width="32" /></td>
+<td><a href="https://ademan.buyarservices.com"><b>Ademán</b></a><br/>Sistema para comunicarse y aprender lenguas de señas</td>
+</tr>
 </table>
 
 Además administramos el panel interno y el portal de clientes de la agencia (gestión, tickets, facturación).
