@@ -26,14 +26,32 @@ Trabajo multi-tenant real (un mismo stack sirviendo decenas de tiendas/sitios de
 
 ### Buyar Services — productos propios
 
-| | Producto | Qué es |
-|---|---|---|
-| <img src="https://www.google.com/s2/favicons?domain=mostraloweb.com&sz=64" width="28" /> | **[MostraloWeb](https://mostraloweb.com)** | Constructor de tiendas online + marketplace multi-tenant |
-| <img src="https://www.google.com/s2/favicons?domain=hivault.buyarservices.com&sz=64" width="28" /> | **[Hivault](https://hivault.buyarservices.com)** | App de finanzas personales (web + Android) |
-| <img src="https://www.google.com/s2/favicons?domain=lockar.buyarservices.com&sz=64" width="28" /> | **[Lockar](https://lockar.buyarservices.com)** | Gestor de contraseñas self-hosted, cifrado zero-knowledge |
-| <img src="https://www.google.com/s2/favicons?domain=turnar.buyarservices.com&sz=64" width="28" /> | **[Turnar](https://turnar.buyarservices.com)** | Sistema de turnos, se instala en el servidor de cada cliente |
-| <img src="https://www.google.com/s2/favicons?domain=routar.buyarservices.com&sz=64" width="28" /> | **[Routar](https://routar.buyarservices.com)** | Gestor de tareas, listas y hábitos (web + apps nativas) |
-| <img src="https://www.google.com/s2/favicons?domain=games.buyarservices.com&sz=64" width="28" /> | **[Buyar Games](https://games.buyarservices.com)** | Hub de juegos web (motor Godot) |
+<table>
+<tr>
+<td width="60" align="center"><img src="https://mostraloweb.com/favicon.ico" width="32" /></td>
+<td><a href="https://mostraloweb.com"><b>MostraloWeb</b></a><br/>Constructor de tiendas online + marketplace multi-tenant</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://hivault.buyarservices.com/favicon-32.png" width="32" /></td>
+<td><a href="https://hivault.buyarservices.com"><b>Hivault</b></a><br/>App de finanzas personales (web + Android)</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://lockar.buyarservices.com/images/logo_solo_sm.png" width="32" /></td>
+<td><a href="https://lockar.buyarservices.com"><b>Lockar</b></a><br/>Gestor de contraseñas self-hosted, cifrado zero-knowledge</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://turnar.buyarservices.com/identidad/isotipo.svg" width="32" /></td>
+<td><a href="https://turnar.buyarservices.com"><b>Turnar</b></a><br/>Sistema de turnos, se instala en el servidor de cada cliente</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://routar.buyarservices.com/images/brand/apple-touch-icon.png" width="32" /></td>
+<td><a href="https://routar.buyarservices.com"><b>Routar</b></a><br/>Gestor de tareas, listas y hábitos (web + apps nativas)</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://games.buyarservices.com/favicon.ico" width="32" /></td>
+<td><a href="https://games.buyarservices.com"><b>Buyar Games</b></a><br/>Hub de juegos web (motor Godot)</td>
+</tr>
+</table>
 
 Además administramos el panel interno y el portal de clientes de la agencia (gestión, tickets, facturación).
 
@@ -41,13 +59,14 @@ Además administramos el panel interno y el portal de clientes de la agencia (ge
 
 ### Actividad
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ivan-burgio&theme=react&hide_border=true&border_radius=8" height="195" alt="streak" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivan-burgio/ivan-burgio/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivan-burgio/ivan-burgio/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ivan-burgio/ivan-burgio/output/snake-dark.svg" width="100%" />
+</picture>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivan-burgio&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-burgio&layout=compact&theme=react&hide_border=true&langs_count=8" height="195" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=ivan-burgio&theme=react&hide_border=true&border_radius=8" height="195" alt="streak" />
 </div>
 
 ---
